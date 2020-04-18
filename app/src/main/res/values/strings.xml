@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Random</string>
+    <string name="so_min">So Min</string>
+    <string name="so_max">So Max</string>
+    <string name="game_loto">GAME LOTO</string>
+    <string name="random">Random</string>
+</resources>
